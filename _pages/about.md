@@ -13,11 +13,8 @@ Maohan Liang received the PhD and MSc degrees in Traffic Information Engineering
 Call for paper
 ------
 Computers and Electrical Engineering
-
 We are excited to announce a call for papers for an upcoming special issue in [Computers and Electrical Engineering (CAEE)](https://www.sciencedirect.com/journal/computers-and-electrical-engineering/about/call-for-papers) (JCR-Q2), with an Impact Factor of 4.3. This special issue is dedicated to the theme of "Internet of Things-Aided Intelligent Transport Systems: Sensors, Methods, and Applications." We invite original, high-quality submissions that explore innovative IoT solutions, methodologies, and practical applications aimed at enhancing intelligent transportation systems. This is a fantastic opportunity to contribute to a growing field that has significant implications for future mobility, urban planning, and smart city development.
-
 Submission Deadline: 30th December 2024
-
 We look forward to your contributions and to advancing the discourse in this critical area of research.
 
 For more info
