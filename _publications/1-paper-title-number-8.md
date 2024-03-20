@@ -1,16 +1,16 @@
 ---
-title: "PiracyAnalyzer: Spatial Temporal Patterns Analysis of Global Piracy Incidents ?"
+title: "QSD-LSTM: Vessel trajectory prediction using long short-term memory with quaternion ship domain"
 collection: publications
-permalink: /publication/2024/3/1-paper-title-number-8
-excerpt: 'Maritime piracy incidents present significant threats to maritime security, resulting in material damages and jeopardizing the safety of crews. Despite the scope of the issue, existing research has not adequately explored the diverse risks and theoretical implications involved. To fill that gap, this paper aims to develop a comprehensive framework for analyzing global piracy incidents. The framework assesses risk levels and identifies patterns from spatial, temporal, and spatio-temporal dimensions, which facilitates the development of informed anti-piracy policy decisions. Firstly, the paper introduces a novel risk assessment mechanism for piracy incidents and constructs a dataset encompassing 3,716 recorded incidents from 2010 to 2021. Secondly, this study has developed a visualization and analysis framework capable of examining piracy incidents through the identification of clusters, outliers, and hot spots. Thirdly'
-date: 2024/3/1
-venue: 'Reliability Engineering &amp; System Safety'
-paperurl: 'https://doi.org/10.1016/j.ress.2023.109877'
-citation: 'Liang, M., Li, H., Liu, R. W., Lam, J. S. L., &amp; Yang, Z. (2024). PiracyAnalyzer: Spatial temporal patterns analysis of global piracy incidents. Reliability Engineering &amp; System Safety,?43, 109877.'
+permalink: /publication/2023/7/1-paper-title-number-8
+excerpt: 'Vessel trajectory prediction is a critical aspect of ensuring maritime traffic safety and avoiding collisions. The long short-term memory (LSTM) network and its extensions have represented powerful ability of vessel trajectory prediction. However, the previous studies often did not take dynamic interactions between neighboring vessels into account. Additionally, in complex traffic conditions, trajectory prediction will acquire uncertainty, and these potential negative factors can limit the prediction of future trajectory. To enhance the prediction performance, we propose an interactive vessel trajectory prediction framework (i.e., QSD-LSTM) based on LSTM, which is embedded with the quaternion ship domain (QSD). The QSD is beneficial for avoiding unwanted collision between neighboring vessels. In addition, the operation of trajectory clustering is further incorporated into our trajectory prediction framework, potentially'
+date: 2023/7/1
+venue: 'Applied Ocean Research'
+paperurl: 'https://doi.org/10.1016/j.apor.2023.103592'
+citation: 'Liu, R. W., Hu, K., Liang, M., Li, Y., Liu, X., &amp; Yang, D. (2023). QSD-LSTM: Vessel trajectory prediction using long short-term memory with quaternion ship domain. Applied Ocean Research, 136, 103592.'
 ---
 
-<a href='https://doi.org/10.1016/j.ress.2023.109877'>Download paper here</a>
+<a href='https://doi.org/10.1016/j.apor.2023.103592'>Download paper here</a>
 
-Maritime piracy incidents present significant threats to maritime security, resulting in material damages and jeopardizing the safety of crews. Despite the scope of the issue, existing research has not adequately explored the diverse risks and theoretical implications involved. To fill that gap, this paper aims to develop a comprehensive framework for analyzing global piracy incidents. The framework assesses risk levels and identifies patterns from spatial, temporal, and spatio-temporal dimensions, which facilitates the development of informed anti-piracy policy decisions. Firstly, the paper introduces a novel risk assessment mechanism for piracy incidents and constructs a dataset encompassing 3,716 recorded incidents from 2010 to 2021. Secondly, this study has developed a visualization and analysis framework capable of examining piracy incidents through the identification of clusters, outliers, and hot spots. Thirdly
+Vessel trajectory prediction is a critical aspect of ensuring maritime traffic safety and avoiding collisions. The long short-term memory (LSTM) network and its extensions have represented powerful ability of vessel trajectory prediction. However, the previous studies often did not take dynamic interactions between neighboring vessels into account. Additionally, in complex traffic conditions, trajectory prediction will acquire uncertainty, and these potential negative factors can limit the prediction of future trajectory. To enhance the prediction performance, we propose an interactive vessel trajectory prediction framework (i.e., QSD-LSTM) based on LSTM, which is embedded with the quaternion ship domain (QSD). The QSD is beneficial for avoiding unwanted collision between neighboring vessels. In addition, the operation of trajectory clustering is further incorporated into our trajectory prediction framework, potentially
 
-Recommended citation: Liang, M., Li, H., Liu, R. W., Lam, J. S. L., & Yang, Z. (2024). PiracyAnalyzer: Spatial temporal patterns analysis of global piracy incidents. Reliability Engineering & System Safety,?43, 109877.
+Recommended citation: Liu, R. W., Hu, K., Liang, M., Li, Y., Liu, X., & Yang, D. (2023). QSD-LSTM: Vessel trajectory prediction using long short-term memory with quaternion ship domain. Applied Ocean Research, 136, 103592.
