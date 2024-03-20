@@ -11,27 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Transportation, GitHub University, 2023 
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Traffic Information Engineering \& Control, School of Navigation, Wuhan University of Technology, 2023 
+* M.S. in Traffic and Transport Engineering, School of Navigation, Wuhan University of Technology, 2014
+* B.S. in Civil Engineering, School of Engineering and Technology, Hubei University of Technology, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Research Fellow
+  * Department of Civil and Environmental Engineering, National University of Singapore
+  * Duties includes: 
+  * Supervisor: Prof. Meng Qiang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2015: Research Engineering
+  * Department of Civil and Environmental Engineering, National University of Singapore
+  * Duties included: 
+  * Supervisor: Prof. Meng Qiang
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+
 Skills
 ======
 * Skill 1
