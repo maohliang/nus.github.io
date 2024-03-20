@@ -19,12 +19,10 @@ Work experience
 ======
 *  2024: Research Fellow
   * Department of Civil and Environmental Engineering, National University of Singapore
-  * Duties includes: 
   * Supervisor: Prof. Meng Qiang
 
-*  2014: Research Engineering
+*  2024: Research Engineering
   * Department of Civil and Environmental Engineering, National University of Singapore
-  * Duties included: 
   * Supervisor: Prof. Meng Qiang
 
 
@@ -33,7 +31,7 @@ Research interests
 * ITS
 * Maritime
 * Data Mining
-* Deep Laerning
+* Deep Learning
 
 Publications
 ======
