@@ -28,14 +28,12 @@ Work experience
   * Supervisor: Prof. Meng Qiang
 
 
-Skills
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ITS
+* Maritime
+* Data Mining
+* Deep Laerning
 
 Publications
 ======
