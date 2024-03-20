@@ -20,4 +20,4 @@ We look forward to your contributions and to advancing the discourse in this cri
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Please note that updates to this website are not frequent. For the most current information regarding our research and publications, we encourage you to visit our profiles on [ResearchGate](https://www.researchgate.net/profile/Maohan-Liang) and [Google Scholar](https://scholar.google.com/citations?user=qX2QLZ0AAAAJ&hl=zh-CN). These platforms are regularly updated to reflect our latest work and findings in the field.
