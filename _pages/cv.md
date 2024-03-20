@@ -17,12 +17,12 @@ Education
 
 Work experience
 ======
-* Spring 2024: Research Fellow
+*  2024: Research Fellow
   * Department of Civil and Environmental Engineering, National University of Singapore
   * Duties includes: 
   * Supervisor: Prof. Meng Qiang
 
-* Fall 2015: Research Engineering
+*  2014: Research Engineering
   * Department of Civil and Environmental Engineering, National University of Singapore
   * Duties included: 
   * Supervisor: Prof. Meng Qiang
@@ -53,6 +53,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
