@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Traffic Information Engineering \& Control, School of Navigation, Wuhan University of Technology, 2023 
-* M.S. in Traffic and Transport Engineering, School of Navigation, Wuhan University of Technology, 2018
+* Ph.D in Traffic Information Engineering & Control, School of Navigation, Wuhan University of Technology, 2023 
+* M.S. in Traffic & Transport Engineering, School of Navigation, Wuhan University of Technology, 2018
 * B.S. in Civil Engineering, School of Engineering and Technology, Hubei University of Technology, 2016
 
 Work experience
