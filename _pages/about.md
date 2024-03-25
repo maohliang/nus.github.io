@@ -14,7 +14,7 @@ Computers and Electrical Engineering--Call for papers
 
 Internet of Things-Aided Intelligent Transport Systems: Sensors, Methods, and Applications
 
- [Computers and Electrical Engineering (CAEE) (JCR-Q2)](https://www.sciencedirect.com/journal/computers-and-electrical-engineering/about/call-for-papers#internet-of-things-aided-intelligent-transport-systems-sensors-methods-and-applications) Impact Factor: 4.3
+ [Computers and Electrical Engineering (CAEE) (JCR-Q2)](https://www.sciencedirect.com/journal/computers-and-electrical-engineering/about/call-for-papers#internet-of-things-aided-intelligent-transport-systems-sensors-methods-and-applications), Impact Factor: 4.3
  
 Submission Deadline: 30th December 2024
 
@@ -24,7 +24,7 @@ Information--Call for papers
 ------
 Deep Learning Approach for Time Series Forecasting 
 
-[Information](https://www.mdpi.com/journal/information/special_issues/4T883HR79T#editors ) Impact Factor: 3.1
+[Information](https://www.mdpi.com/journal/information/special_issues/4T883HR79T#editors ), Impact Factor: 3.1
  
 Submission Deadline: 31th December 2024
 
