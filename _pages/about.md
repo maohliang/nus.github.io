@@ -20,6 +20,13 @@ Submission Deadline: 30th December 2024
 
 
 
+Information--Call for papers
+------
+Deep Learning Approach for Time Series Forecasting 
+
+[Information](https://www.mdpi.com/journal/information/special_issues/4T883HR79T#editors ) Impact Factor: 3.1
+ 
+Submission Deadline: 31th December 2024
 
 For more info
 ------
