@@ -9,6 +9,16 @@ redirect_from:
 
 Maohan Liang received the PhD and MSc degrees in Traffic Information Engineering and Control from Wuhan University of Technology, China. From 2021 to 2023, he was a Visiting Student at Nanyang Technological University. He is currently a research fellow at the National University of Singapore. His research interests include deep learning, traffic big data mining, Internet of Things (IoT), and Intelligent Transportation Systems. He has published more than 20 refereed papers in these areas. In the following some relevant metrics overview (last update December 2023): Scopus h-index is 12 with 502 Citations.
 
+Transportation Research Part D: Transport and Environment--Call for papers
+------
+
+Machine Learning for Sustainable Maritime Transportation: Empirical Insights and Policy Implications
+
+ [Transportation Research Part D: Transport and Environment (TR_D) (JCR-Q1)](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment/about/call-for-papers#machine-learning-for-sustainable-maritime-transportation-empirical-insights-and-policy-implications), Impact Factor: 7.6
+ 
+Submission Deadline: 28 Feb 2025
+
+
 Computers and Electrical Engineering--Call for papers
 ------
 
