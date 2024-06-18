@@ -26,7 +26,7 @@ Internet of Things-Aided Intelligent Transport Systems: Sensors, Methods, and Ap
 
  [Frontiers in Marine Science (JCR-Q1)](https://www.frontiersin.org/research-topics/65506/emerging-computational-intelligence-techniques-to-address-challenges-in-oceanic-computing), Impact Factor: 3.7
  
-Submission Deadline: 30th December 2024
+Submission Deadline: 18 December 2024
 
 
 Computers and Electrical Engineering--Call for papers
