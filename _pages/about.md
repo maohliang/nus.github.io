@@ -19,15 +19,24 @@ Machine Learning for Sustainable Maritime Transportation: Empirical Insights and
 Submission Deadline: 28 Feb 2025
 
 
-Computers and Electrical Engineering--Call for papers
+Frontiers in Marine Science--Call for papers
 ------
 
 Internet of Things-Aided Intelligent Transport Systems: Sensors, Methods, and Applications
 
- [Computers and Electrical Engineering (CAEE) (JCR-Q2)](https://www.sciencedirect.com/journal/computers-and-electrical-engineering/about/call-for-papers#internet-of-things-aided-intelligent-transport-systems-sensors-methods-and-applications), Impact Factor: 4.3
+ [Frontiers in Marine Science (JCR-Q1)](https://www.frontiersin.org/research-topics/65506/emerging-computational-intelligence-techniques-to-address-challenges-in-oceanic-computing), Impact Factor: 3.7
  
 Submission Deadline: 30th December 2024
 
+
+Computers and Electrical Engineering--Call for papers
+------
+
+Emerging Computational Intelligence Techniques to Address Challenges in Oceanic Computing
+
+ [Computers and Electrical Engineering (CAEE) (JCR-Q2)](https://www.sciencedirect.com/journal/computers-and-electrical-engineering/about/call-for-papers#internet-of-things-aided-intelligent-transport-systems-sensors-methods-and-applications), Impact Factor: 4.3
+ 
+Submission Deadline: 30th December 2024
 
 
 Information--Call for papers
