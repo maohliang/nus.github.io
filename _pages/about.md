@@ -14,7 +14,7 @@ Transportation Research Part D: Transport and Environment--Call for papers
 
 Machine Learning for Sustainable Maritime Transportation: Empirical Insights and Policy Implications
 
- [Transportation Research Part D: Transport and Environment (TR_D) (JCR-Q1)](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment/about/call-for-papers#machine-learning-for-sustainable-maritime-transportation-empirical-insights-and-policy-implications), Impact Factor: 7.6
+ [Transportation Research Part D: Transport and Environment (TR_D) (JCR-Q1)](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment/about/call-for-papers#machine-learning-for-sustainable-maritime-transportation-empirical-insights-and-policy-implications), Impact Factor: 7.3
  
 Submission Deadline: 28 Feb 2025
 
@@ -24,7 +24,7 @@ Frontiers in Marine Science--Call for papers
 
 Internet of Things-Aided Intelligent Transport Systems: Sensors, Methods, and Applications
 
- [Frontiers in Marine Science (JCR-Q1)](https://www.frontiersin.org/research-topics/65506/emerging-computational-intelligence-techniques-to-address-challenges-in-oceanic-computing), Impact Factor: 3.7
+ [Frontiers in Marine Science (JCR-Q1)](https://www.frontiersin.org/research-topics/65506/emerging-computational-intelligence-techniques-to-address-challenges-in-oceanic-computing), Impact Factor: 2.8
  
 Submission Deadline: 18 December 2024
 
@@ -34,7 +34,7 @@ Computers and Electrical Engineering--Call for papers
 
 Emerging Computational Intelligence Techniques to Address Challenges in Oceanic Computing
 
- [Computers and Electrical Engineering (CAEE) (JCR-Q2)](https://www.sciencedirect.com/journal/computers-and-electrical-engineering/about/call-for-papers#internet-of-things-aided-intelligent-transport-systems-sensors-methods-and-applications), Impact Factor: 4.3
+ [Computers and Electrical Engineering (CAEE) (JCR-Q1)](https://www.sciencedirect.com/journal/computers-and-electrical-engineering/about/call-for-papers#internet-of-things-aided-intelligent-transport-systems-sensors-methods-and-applications), Impact Factor: 4
  
 Submission Deadline: 30th December 2024
 
@@ -43,7 +43,7 @@ Information--Call for papers
 ------
 Deep Learning Approach for Time Series Forecasting 
 
-[Information](https://www.mdpi.com/journal/information/special_issues/4T883HR79T#editors ), Impact Factor: 3.1
+[Information](https://www.mdpi.com/journal/information/special_issues/4T883HR79T#editors ), Impact Factor: 2.4
  
 Submission Deadline: 31th December 2024
 
