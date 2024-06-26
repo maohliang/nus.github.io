@@ -22,7 +22,7 @@ Submission Deadline: 28 Feb 2025
 Frontiers in Marine Science--Call for papers
 ------
 
-Internet of Things-Aided Intelligent Transport Systems: Sensors, Methods, and Applications
+Emerging Computational Intelligence Techniques to Address Challenges in Oceanic Computing
 
  [Frontiers in Marine Science (JCR-Q1)](https://www.frontiersin.org/research-topics/65506/emerging-computational-intelligence-techniques-to-address-challenges-in-oceanic-computing), Impact Factor: 2.8
  
@@ -32,7 +32,7 @@ Submission Deadline: 18 December 2024
 Computers and Electrical Engineering--Call for papers
 ------
 
-Emerging Computational Intelligence Techniques to Address Challenges in Oceanic Computing
+Internet of Things-Aided Intelligent Transport Systems: Sensors, Methods, and Applications
 
  [Computers and Electrical Engineering (CAEE) (JCR-Q1)](https://www.sciencedirect.com/journal/computers-and-electrical-engineering/about/call-for-papers#internet-of-things-aided-intelligent-transport-systems-sensors-methods-and-applications), Impact Factor: 4
  
