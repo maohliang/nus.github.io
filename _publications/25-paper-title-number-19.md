@@ -5,12 +5,12 @@ permalink: /publication/2025/2/25-paper-title-number-19
 excerpt: 'waiting for update'
 date: 2025/2/25
 venue: 'Transportation'
-paperurl: 'waiting for update'
-citation: 'waiting for update'
+paperurl: 'Will be updated soon'
+citation: 'Will be updated soon'
 ---
 
-<a href='waiting for update'>Download paper here</a>
+<a href='Will be updated soon'>Download paper here</a>
 
 waiting for update
 
-Recommended citation: waiting for update
+Recommended citation: Will be updated soon
