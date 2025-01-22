@@ -9,7 +9,7 @@ redirect_from:
 
 Maohan Liang received the PhD and MSc degrees in Traffic Information Engineering and Control from Wuhan University of Technology, China. From 2021 to 2023, he was a Visiting Student at Nanyang Technological University. He is currently a research fellow at the National University of Singapore. His research interests include deep learning, traffic big data mining, Internet of Things (IoT), and Intelligent Transportation Systems. He has published more than 20 refereed papers in these areas. In the following some relevant metrics overview (last update 22/01/2025): Scopus h-index is 17 with 1017 Citations.
 
-Latest News: Best Paper Award at The 10th International Conference on Informatics & Applications
+Latest News(12/01/2025): Best Paper Award at The 10th International Conference on Informatics & Applications
 ------
 We are thrilled to announce that our recent paper, "Deep Learning Empowered Vessel Destination Prediction Using AIS Data", has been awarded the Best Conference Paper Award at the 10th International Conference on Informatics & Applications (ICIA).
 This recognition highlights our innovative approach to leveraging deep learning techniques for vessel destination prediction, utilizing Automatic Identification System (AIS) data to enhance maritime operations and logistics. We are grateful for the conference organizers and reviewers for recognizing the significance of our work.
