@@ -16,14 +16,25 @@ This recognition highlights our innovative approach to leveraging deep learning 
 This achievement reflects our commitment to advancing research in intelligent transportation systems and maritime data analytics. Stay tuned for more updates on our ongoing projects and future contributions to the field!
 
 
-Transportation Research Part D: Transport and Environment--Call for papers
+Journal of Marine Science and Engineering--Call for papers
+------
+
+Emerging Computational Methods in Intelligent Marine Vehicles
+
+ Journal of Marine Science and Engineering (JCR-Q1)](https://www.mdpi.com/journal/jmse/special_issues/CT1TBN19O9), Impact Factor: 2.7
+ 
+Submission Deadline: 20 August 2025
+
+
+
+Transportation Research Part D: Transport and Environment--Call for papers (Extension)
 ------
 
 Machine Learning for Sustainable Maritime Transportation: Empirical Insights and Policy Implications
 
  [Transportation Research Part D: Transport and Environment (TR_D) (JCR-Q1)](https://www.sciencedirect.com/journal/transportation-research-part-d-transport-and-environment/about/call-for-papers#machine-learning-for-sustainable-maritime-transportation-empirical-insights-and-policy-implications), Impact Factor: 7.3
  
-Submission Deadline: 28 Feb 2025
+Submission Deadline: 28 Oct 2025
 
 
 Frontiers in Marine Science--Call for papers (Extension)
