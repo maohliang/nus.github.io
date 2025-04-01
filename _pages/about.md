@@ -12,7 +12,7 @@ Maohan Liang received the PhD and MSc degrees in Traffic Information Engineering
 Latest News
 ------
 
-**Joins Editorial Board of The International Journal of Intelligent Transportation Systems Research(01/04/2025)**
+**Join Editorial Board of The International Journal of Intelligent Transportation Systems Research(01/04/2025)**
 
 I am pleased to share that I have been invited to join the Editorial Board of The International Journal of Intelligent Transportation Systems Research (IJIT). I am deeply honored by this recognition and would like to sincerely thank the Editorial Team for their trust and support.
 
