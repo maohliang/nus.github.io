@@ -16,13 +16,11 @@ Latest News
 
 I am pleased to share that I have been invited to join the Editorial Board of The International Journal of Intelligent Transportation Systems Research (IJIT). I am deeply honored by this recognition and would like to sincerely thank the Editorial Team for their trust and support.
 
-IJIT is a leading international journal dedicated to the advancement of intelligent transportation systems through interdisciplinary research. It is the only transportation journal that emphasizes multi-disciplinary collaboration to address complex challenges in the field. The journal provides a global platform that brings together experts from transportation engineering, electrical and mechanical engineering, traffic systems, urban planning, policy development, economics, and psychology to explore future-oriented transportation solutions.
 
 **Best Paper Award at The 10th International Conference on Informatics & Applications(12/01/2025)**
 
 We are thrilled to announce that our recent paper, "Deep Learning Empowered Vessel Destination Prediction Using AIS Data", has been awarded the Best Conference Paper Award at the 10th International Conference on Informatics & Applications (ICIA).
-This recognition highlights our innovative approach to leveraging deep learning techniques for vessel destination prediction, utilizing Automatic Identification System (AIS) data to enhance maritime operations and logistics. We are grateful for the conference organizers and reviewers for recognizing the significance of our work.
-This achievement reflects our commitment to advancing research in intelligent transportation systems and maritime data analytics. Stay tuned for more updates on our ongoing projects and future contributions to the field!
+
 
 
 Call for papers
