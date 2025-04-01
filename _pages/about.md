@@ -11,21 +11,24 @@ Maohan Liang received the PhD and MSc degrees in Traffic Information Engineering
 
 Latest News
 ------
-Joins Editorial Board of The International Journal of Intelligent Transportation Systems Research(01/04/2025)
-------
+
+**Joins Editorial Board of The International Journal of Intelligent Transportation Systems Research(01/04/2025)**
+
 I am pleased to share that I have been invited to join the Editorial Board of The International Journal of Intelligent Transportation Systems Research (IJIT). I am deeply honored by this recognition and would like to sincerely thank the Editorial Team for their trust and support.
 
 IJIT is a leading international journal dedicated to the advancement of intelligent transportation systems through interdisciplinary research. It is the only transportation journal that emphasizes multi-disciplinary collaboration to address complex challenges in the field. The journal provides a global platform that brings together experts from transportation engineering, electrical and mechanical engineering, traffic systems, urban planning, policy development, economics, and psychology to explore future-oriented transportation solutions.
 
-Best Paper Award at The 10th International Conference on Informatics & Applications(12/01/2025)
-------
+**Best Paper Award at The 10th International Conference on Informatics & Applications(12/01/2025)**
+
 We are thrilled to announce that our recent paper, "Deep Learning Empowered Vessel Destination Prediction Using AIS Data", has been awarded the Best Conference Paper Award at the 10th International Conference on Informatics & Applications (ICIA).
 This recognition highlights our innovative approach to leveraging deep learning techniques for vessel destination prediction, utilizing Automatic Identification System (AIS) data to enhance maritime operations and logistics. We are grateful for the conference organizers and reviewers for recognizing the significance of our work.
 This achievement reflects our commitment to advancing research in intelligent transportation systems and maritime data analytics. Stay tuned for more updates on our ongoing projects and future contributions to the field!
 
 
-Journal of Marine Science and Engineering--Call for papers
+Call for papers
 ------
+
+**Journal of Marine Science and Engineering**
 
 Emerging Computational Methods in Intelligent Marine Vehicles
 
@@ -35,8 +38,7 @@ Submission Deadline: 20 August 2025
 
 
 
-Transportation Research Part D: Transport and Environment--Call for papers (Extension)
-------
+**Transportation Research Part D: Transport and Environment**
 
 Machine Learning for Sustainable Maritime Transportation: Empirical Insights and Policy Implications
 
@@ -45,8 +47,7 @@ Machine Learning for Sustainable Maritime Transportation: Empirical Insights and
 Submission Deadline: 28 Oct 2025
 
 
-Frontiers in Marine Science--Call for papers (Extension)
-------
+**Frontiers in Marine Science--Call for papers (Extension)**
 
 Emerging Computational Intelligence Techniques to Address Challenges in Oceanic Computing
 
@@ -55,8 +56,7 @@ Emerging Computational Intelligence Techniques to Address Challenges in Oceanic 
 Submission Deadline: 18 December 2024
 
 
-Computers and Electrical Engineering--Call for papers (Closed)
-------
+**Computers and Electrical Engineering--Call for papers (Closed)**
 
 Internet of Things-Aided Intelligent Transport Systems: Sensors, Methods, and Applications
 
@@ -65,8 +65,8 @@ Internet of Things-Aided Intelligent Transport Systems: Sensors, Methods, and Ap
 Submission Deadline: 30th December 2024
 
 
-Information--Call for papers 
-------
+**Information--Call for papers**
+
 Deep Learning Approach for Time Series Forecasting 
 
 [Information](https://www.mdpi.com/journal/information/special_issues/4T883HR79T#editors ), Impact Factor: 2.4
