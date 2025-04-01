@@ -21,7 +21,7 @@ Journal of Marine Science and Engineering--Call for papers
 
 Emerging Computational Methods in Intelligent Marine Vehicles
 
- Journal of Marine Science and Engineering (JCR-Q1)](https://www.mdpi.com/journal/jmse/special_issues/CT1TBN19O9), Impact Factor: 2.7
+[Journal of Marine Science and Engineering (JCR-Q1)](https://www.mdpi.com/journal/jmse/special_issues/CT1TBN19O9), Impact Factor: 2.7
  
 Submission Deadline: 20 August 2025
 
