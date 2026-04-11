@@ -12,15 +12,29 @@ Maohan Liang received the PhD and MSc degrees in Traffic Information Engineering
 Latest News
 ------
 
-**Join Editorial Board of The International Journal of Intelligent Transportation Systems Research(01/04/2025)**
+**Wuhan University of Technology Professor (Specially Appointed) and Young Elite Talent (04/2026)**
+
+I was appointed as Professor (Specially Appointed) at Wuhan University of Technology in April 2026 and selected as a Young Elite Talent of Wuhan University of Technology.
+
+
+**Selected for the Overseas Postdoctoral Talent Recruitment Program (12/2025)**
+
+I was selected for the Overseas Postdoctoral Talent Recruitment Program in December 2025.
+
+
+**Joined Wuhan University of Technology (09/2025)**
+
+I joined Wuhan University of Technology in September 2025.
+
+
+**Join Editorial Board of The International Journal of Intelligent Transportation Systems Research (01/04/2025)**
 
 I am pleased to share that I have been invited to join the Editorial Board of The International Journal of Intelligent Transportation Systems Research (IJIT). I am deeply honored by this recognition and would like to sincerely thank the Editorial Team for their trust and support.
 
 
-**Best Paper Award at The 10th International Conference on Informatics & Applications(12/01/2025)**
+**Best Paper Award at The 10th International Conference on Informatics & Applications (12/01/2025)**
 
 We are thrilled to announce that our recent paper, "Deep Learning Empowered Vessel Destination Prediction Using AIS Data", has been awarded the Best Conference Paper Award at the 10th International Conference on Informatics & Applications (ICIA).
-
 
 
 Call for papers

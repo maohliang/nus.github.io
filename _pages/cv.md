@@ -17,7 +17,10 @@ Education
 
 Work experience
 ======
-*  Present: Professor(Specially Appointed)
+*  2026.04-Present: Professor(Specially Appointed)
+  * Wuhan University of Technology
+
+*  2025.09-2026.04: Lecturer
   * Wuhan University of Technology
 
 *  2024: Research Fellow
@@ -42,6 +45,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -53,5 +57,6 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
 
