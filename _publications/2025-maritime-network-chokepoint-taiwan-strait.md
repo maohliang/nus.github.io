@@ -2,7 +2,7 @@
 title: "Data-driven impact analysis of chokepoint on multi-scale maritime networks: A case study of the Taiwan Strait"
 collection: publications
 permalink: /publication/2025-maritime-network-chokepoint-taiwan-strait
-date: 2025-6
+date: 2025-06-01
 venue: "Transportation Research Part E: Logistics and Transportation Review"
 excerpt: 'Maritime chokepoints are crucial nodes in international supply chains, facilitating most of the global freight transport and the distribution of industrial raw materials and goods. However, these chokepoints are vulnerable to disruptions from severe weather, traffic accidents, and unpredictable factors, significantly impacting global maritime networks. Therefore, it is crucial to understand the role of chokepoints to improve the robustness of the global maritime network. This paper aims to assess the influence of a crucial maritime chokepoint, with a specific focus on the Taiwan Strait, and its effects on the global maritime network. Specifically, five maritime networks with different scales are constructed based on massive global Automatic Identification System (AIS) data. The Taiwan Strait is selected as an important maritime chokepoint in the multi-scale networks. Then, the dependence of the Taiwan Strait on various ports …'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1366554525002200'

@@ -2,7 +2,7 @@
 title: "Improving Maritime Data: A Machine Learning-based Model for Missing Vessel Trajectories Reconstruction"
 collection: publications
 permalink: /publication/2025-missing-vessel-trajectories-reconstruction
-date: 2025-4
+date: 2025-04-01
 venue: "IEEE Transactions on Vehicular Technology"
 excerpt: 'Advancements in maritime satellite technology have significantly impacted the maritime industry, enhancing both communication and safety at sea. These technological improvements have enabled Automatic Identification Systems (AIS) to transmit data through robust maritime communication networks. However, despite these advancements, AIS data often contain significant missing data due to limitations in both devices and network coverage. To overcome these limitations, this research presents an innovative approach for reconstructing missing points. In this paper, we first extracted the geometric shape and motion characteristics of vessels and constructed a decision tree using an adaptive sparse constraint mechanism to classify four types of vessel trajectories. Then, the vessel classification findings serve as input and the vessel acceleration features are constructed using the heading and velocity features of the …'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10878129/'

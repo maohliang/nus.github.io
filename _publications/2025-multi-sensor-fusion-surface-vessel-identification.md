@@ -2,7 +2,7 @@
 title: "Multi-Sensor Fusion-Driven Surface Vessel Identification and Tracking Using Unmanned Aerial Vehicles for Maritime Surveillance"
 collection: publications
 permalink: /publication/2025-multi-sensor-fusion-surface-vessel-identification
-date: 2025-1
+date: 2025-01-01
 venue: "IEEE Transactions on Consumer Electronics"
 excerpt: 'The rapidly-developing artificial intelligence and edge computing technologies have been actively promoting the evolution of autonomous vehicles. The flexible and powerful unmanned aerial vehicles (UAVs) have become suitable application platforms for maritime surveillance. In the maritime Internet of Things (IoT), both airborne cameras and automatic identification system (AIS), which, respectively, provide visual and positioning data, have become the frequently-used and cost-effective sensors. It becomes necessary to fuse the AIS and visual data to detect the visual appearances of surface vessels with obtaining the abundant information on position, movements, and identity, etc. In this work, we propose to develop a multi-sensor fusion-driven computational method (termed MSF-VIT) for highly-reliable surface vessel identification and tracking under different conditions. In particular, it mainly consists of two …'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10833660/'
