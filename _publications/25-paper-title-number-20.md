@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Underwater acoustic signal denoising algorithms: A survey of the state-of-the-art"
 collection: publications
 permalink: /publication/2025/3/25-paper-title-number-20

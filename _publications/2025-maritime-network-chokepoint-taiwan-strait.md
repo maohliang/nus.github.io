@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Data-driven impact analysis of chokepoint on multi-scale maritime networks: A case study of the Taiwan Strait"
 collection: publications
 permalink: /publication/2025-maritime-network-chokepoint-taiwan-strait

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Wave energy forecasting: A state-of-the-art survey and a comprehensive evaluation"
 collection: publications
 permalink: /publication/2025/1/25-paper-title-number-18

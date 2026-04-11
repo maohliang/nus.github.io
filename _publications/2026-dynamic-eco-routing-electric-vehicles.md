@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A fine-grained predictive optimization framework for dynamic eco-routing of electric vehicles"
 collection: publications
 permalink: /publication/2026-dynamic-eco-routing-electric-vehicles

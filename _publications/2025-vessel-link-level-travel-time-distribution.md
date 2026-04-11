@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Estimation of vessel link-level travel time distribution: A directed network-driven approach"
 collection: publications
 permalink: /publication/2025-vessel-link-level-travel-time-distribution

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Deep-TCP: Multi-source data fusion for deep learning-powered tropical cyclone intensity prediction to enhance urban sustainability"
 collection: publications
 permalink: /publication/2025/2/1-paper-title-number-21

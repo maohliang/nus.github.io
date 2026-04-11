@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Big-Data-Driven Vessel Destination Prediction for Smart Port Management"
 collection: publications
 permalink: /publication/2025-vessel-destination-prediction-smart-port-management

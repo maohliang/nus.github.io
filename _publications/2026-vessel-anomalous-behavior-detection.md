@@ -1,4 +1,4 @@
-﻿---
+---
 title: "An attention-enhanced deep learning model for detecting vessel anomalous behavior"
 collection: publications
 permalink: /publication/2026-vessel-anomalous-behavior-detection

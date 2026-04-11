@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ship anomalous behavior detection based on interval prediction of multiple vessel trajectories"
 collection: publications
 permalink: /publication/2025-ship-anomalous-behavior-interval-prediction

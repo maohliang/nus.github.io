@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Reliable vessel trajectory clustering: A maritime shipping network-driven computational method"
 collection: publications
 permalink: /publication/2025-reliable-vessel-trajectory-clustering

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Exploring key factors for long-term vessel incident risk prediction"
 collection: publications
 permalink: /publication/2025-long-term-vessel-incident-risk-prediction

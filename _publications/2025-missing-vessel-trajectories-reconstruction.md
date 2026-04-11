@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Improving Maritime Data: A Machine Learning-based Model for Missing Vessel Trajectories Reconstruction"
 collection: publications
 permalink: /publication/2025-missing-vessel-trajectories-reconstruction

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Integrating GPU-Accelerated for Fast Large-Scale Vessel Trajectories Visualization in Maritime IoT Systems"
 collection: publications
 permalink: /publication/2025/1/25-paper-title-number-17

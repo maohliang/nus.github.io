@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A 'Cluster-then-Estimate' Natural Language Processing (NLP) Approach for Classifying Maritime Incident Severity Based on Textual Descriptions"
 collection: publications
 permalink: /publication/2026-cluster-then-estimate-maritime-incident-severity

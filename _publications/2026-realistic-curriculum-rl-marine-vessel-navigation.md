@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Realistic Curriculum Reinforcement Learning for Autonomous and Sustainable Marine Vessel Navigation"
 collection: publications
 permalink: /publication/2026-realistic-curriculum-rl-marine-vessel-navigation

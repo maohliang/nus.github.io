@@ -1,4 +1,4 @@
-﻿---
+---
 permalink: /
 title: "Personal home page"
 author_profile: true

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A graph attention network-based learning framework for automatic detection of abnormal vessel behaviors"
 collection: publications
 permalink: /publication/2025-graph-attention-abnormal-vessel-behaviors

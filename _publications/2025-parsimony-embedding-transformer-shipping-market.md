@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Discontinuous Parsimony Embedding Empowered Transformer for Shipping Market Forecasting"
 collection: publications
 permalink: /publication/2025-parsimony-embedding-transformer-shipping-market

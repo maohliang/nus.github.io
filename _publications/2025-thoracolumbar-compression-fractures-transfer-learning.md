@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Identifying Acute Thoracolumbar Vertebral Compression Fractures From Low-Quality Small-Sample X-Ray Images: A Transfer Learning-Based Approach"
 collection: publications
 permalink: /publication/2025-thoracolumbar-compression-fractures-transfer-learning

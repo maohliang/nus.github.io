@@ -1,4 +1,4 @@
-﻿---
+---
 title: "UPTM-LLM: Large Language Models-Powered Urban Pedestrian Travel Modes Recognition for Intelligent Transportation System"
 collection: publications
 permalink: /publication/2025-uptm-llm-urban-pedestrian-travel-modes

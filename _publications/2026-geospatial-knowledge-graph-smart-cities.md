@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Big Data Fusion-Driven Geospatial Knowledge Graph Construction Method for Sustainable Smart Cities"
 collection: publications
 permalink: /publication/2026-geospatial-knowledge-graph-smart-cities
