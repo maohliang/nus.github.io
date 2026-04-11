@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+*  Present: Professor(Specially Appointed)
+  * Wuhan University of Technology
+
 *  2024: Research Fellow
   * Department of Civil and Environmental Engineering, National University of Singapore
   * Supervisor: Prof. Meng Qiang
