@@ -1,16 +1,8 @@
 ---
-title: "Underwater Acoustic Signal Denoising Algorithms: A Survey of the State-of-the-art"
+title: "Underwater acoustic signal denoising algorithms: A survey of the state-of-the-art"
 collection: publications
 permalink: /publication/2025/3/25-paper-title-number-20
-excerpt: 'waiting for update'
-date: 2025/3/25
-venue: 'IEEE Transactions on Instrumentation and Measurement'
-paperurl: 'Will be updated soon'
-citation: 'Will be updated soon'
+date: 2025-12-08
+venue: "IEEE Transactions on Instrumentation and Measurement"
+citation: "R Gao, M Liang*, H Dong, X Luo, PN Suganthan. (2025). Underwater acoustic signal denoising algorithms: A survey of the state-of-the-art. IEEE Transactions on Instrumentation and Measurement."
 ---
-
-<a href='Will be updated soon'>Download paper here</a>
-
-waiting for update
-
-Recommended citation: Will be updated soon
