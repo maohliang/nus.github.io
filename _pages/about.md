@@ -1,4 +1,4 @@
----
+﻿---
 permalink: /
 title: "Personal home page"
 author_profile: true
@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Maohan Liang received the PhD and MSc degrees in Traffic Information Engineering and Control from Wuhan University of Technology, China. From 2021 to 2023, he was a Visiting Student at Nanyang Technological University. He is currently a Professor(Specially Appointed) at Wuhan University of Technology. His research interests include deep learning, traffic big data mining, Internet of Things (IoT), and Intelligent Transportation Systems. He has published more than 20 refereed papers in these areas. In the following some relevant metrics overview (last update 22/01/2025): Scopus h-index is 17 with 1017 Citations.
+Maohan Liang received the PhD and MSc degrees in Traffic Information Engineering and Control from Wuhan University of Technology, China. From 2021 to 2023, he was a Visiting Student at Nanyang Technological University. He is currently a Professor(Specially Appointed) at Wuhan University of Technology. His research interests include deep learning, traffic big data mining, Internet of Things (IoT), and Intelligent Transportation Systems. He has published more than 20 refereed papers in these areas. In the following some relevant metrics overview (last update 2026-04-12): Google Scholar h-index is 23 with 1,907 citations.
 
 Latest News
 ------
@@ -74,3 +74,4 @@ Submission Deadline: 31th December 2024
 For more info
 ------
 Please note that updates to this website are not frequent. For the most current information regarding our research and publications, we encourage you to visit our profiles on [ResearchGate](https://www.researchgate.net/profile/Maohan-Liang) and [Google Scholar](https://scholar.google.com/citations?user=qX2QLZ0AAAAJ&hl=zh-CN). These platforms are regularly updated to reflect our latest work and findings in the field.
+

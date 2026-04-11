@@ -1,8 +1,12 @@
----
+﻿---
 title: "Big-Data-Driven Vessel Destination Prediction for Smart Port Management"
 collection: publications
 permalink: /publication/2025-vessel-destination-prediction-smart-port-management
-date: 2025-12-11
+date: 2025-5
 venue: "Engineering Applications of Artificial Intelligence"
+excerpt: 'The accurate prediction of vessel destinations is crucial for enhancing maritime traffic efficiency, optimizing port management, and improving regional economic analysis. However, destination information in Automatic Identification System (AIS) data is often missing or inaccurate, which undermines the reliability of maritime analytic. Traditional vessel destination prediction methods primarily focus on measuring trajectory similarities, which results in high computational complexity. This study develops a deep learning approach to vessel destination prediction by transforming the problem into an image classification task. Rasterized images of historical destination ports and vessel trajectories are generated, incorporating AIS data within a fixed spatial context. A multi-scale residual convolutional network is constructed to extract relevant trajectory and port distribution features. To enhance the representation of trajectory …'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0952197625008292'
 citation: "J Chen, Q Zhang, M Liang*, C Peng, C Chen. (2025). Big-Data-Driven Vessel Destination Prediction for Smart Port Management. Engineering Applications of Artificial Intelligence."
 ---
+The accurate prediction of vessel destinations is crucial for enhancing maritime traffic efficiency, optimizing port management, and improving regional economic analysis. However, destination information in Automatic Identification System (AIS) data is often missing or inaccurate, which undermines the reliability of maritime analytic. Traditional vessel destination prediction methods primarily focus on measuring trajectory similarities, which results in high computational complexity. This study develops a deep learning approach to vessel destination prediction by transforming the problem into an image classification task. Rasterized images of historical destination ports and vessel trajectories are generated, incorporating AIS data within a fixed spatial context. A multi-scale residual convolutional network is constructed to extract relevant trajectory and port distribution features. To enhance the representation of trajectory …
+
