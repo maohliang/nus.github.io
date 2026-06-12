@@ -12,6 +12,11 @@ Maohan Liang received the PhD and MSc degrees in Traffic Information Engineering
 Latest News
 ------
 
+**Springer Nature Editorial Contribution Award and Author Service Award (06/2026)**
+
+I am honored to receive both the Springer Nature Editorial Contribution Award and the Springer Nature Author Service Award. These awards recognize editors' contributions to rigorous peer review management, safeguarding the scientific accuracy and trustworthiness of the published record, and providing authors with an efficient, constructive, and fair peer review experience. The Editorial Contribution Award is granted to editors ranked in the top 20% for the number of manuscripts sent to peer review, while the Author Service Award is granted to editors ranked in the top 20% for turnaround time to first decision.
+
+
 **Wuhan University of Technology Professor (Specially Appointed) and Young Elite Talent (04/2026)**
 
 I was appointed as Professor (Specially Appointed) at Wuhan University of Technology in April 2026 and selected as a Young Elite Talent of Wuhan University of Technology.
@@ -39,6 +44,26 @@ We are thrilled to announce that our recent paper, "Deep Learning Empowered Vess
 
 Call for papers
 ------
+
+**Drones--Call for papers**
+
+Intelligent Cooperative Control and Application of Unmanned Surface/Underwater Vehicles
+
+[Drones (JCR-Q1)](https://www.mdpi.com/journal/drones/special_issues/2Y6JPMU8G3), Impact Factor: 4.8
+
+Submission Deadline: 30 September 2026
+
+
+
+**CMES-Computer Modeling in Engineering & Sciences--Call for papers**
+
+Theories, Methods, and Applications of Maritime Traffic Data Mining
+
+[CMES-Computer Modeling in Engineering & Sciences (JCR-Q1)](https://www.techscience.com/CMES/special_detail/maritime-traffic-data-mining), Impact Factor: 2.5
+
+Submission Deadline: 28 February 2027
+
+
 
 **Journal of Marine Science and Engineering**
 
