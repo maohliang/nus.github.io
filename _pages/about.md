@@ -12,9 +12,13 @@ Maohan Liang received the PhD and MSc degrees in Traffic Information Engineering
 Latest News
 ------
 
-**World's Top 2% Scientists (2026)**
+**Invited to Organize an Article Collection in International Journal of Digital Earth**
 
-I am honored to be included in the Stanford/Elsevier World's Top 2% Scientists list for single-year citation impact, as listed in the [2026 TOPSCINET profile](https://topscinet.com/scientist_profile/Liang,%20Maohan/2016/?stype=single_year).
+Together with Peng Peng and Feng Lu, I have been invited to serve as a Guest Advisor for the article collection [Multi-Source Earth Observation and GeoAI for Maritime Situational Awareness](https://think.taylorandfrancis.com/article_collections/multi-source-earth-observation-and-geoai-for-maritime-situational-awareness/) in *International Journal of Digital Earth*. We welcome contributions on multi-source maritime observations and GeoAI. The submission deadline is **31 July 2027**.
+
+**World's Top 2% Scientists**
+
+I am honored to be included in the Stanford/Elsevier World's Top 2% Scientists list for single-year citation impact, as listed in the [TOPSCINET profile](https://topscinet.com/scientist_profile/Liang,%20Maohan/2016/?stype=single_year).
 
 
 **Editorial Board Member of Scientific Reports**
@@ -63,7 +67,9 @@ Multi-Source Earth Observation and GeoAI for Maritime Situational Awareness
 
 Guest Advisors: Maohan Liang, Peng Peng, and Feng Lu.
 
-Submission Deadline: 31 July 2027
+Topics include maritime data fusion, AIS and remote sensing integration, vessel detection and tracking, trajectory prediction, maritime anomaly detection, and smart ports.
+
+Submission Deadline: **31 July 2027**
 
 
 **Drones--Call for papers**
