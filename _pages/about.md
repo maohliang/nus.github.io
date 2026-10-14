@@ -12,6 +12,11 @@ Maohan Liang received the PhD and MSc degrees in Traffic Information Engineering
 Latest News
 ------
 
+**Editorial Board Member of Scientific Reports**
+
+I am pleased to share that I have joined the Editorial Board of [Scientific Reports](https://www.nature.com/srep/editors), published by Springer Nature.
+
+
 **Springer Nature Editorial Contribution Award and Author Service Award (06/2026)**
 
 I am honored to receive both the Springer Nature Editorial Contribution Award and the Springer Nature Author Service Award. These awards recognize editors' contributions to rigorous peer review management, safeguarding the scientific accuracy and trustworthiness of the published record, and providing authors with an efficient, constructive, and fair peer review experience. The Editorial Contribution Award is granted to editors ranked in the top 20% for the number of manuscripts sent to peer review, while the Author Service Award is granted to editors ranked in the top 20% for turnaround time to first decision.
