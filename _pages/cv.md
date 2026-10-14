@@ -39,6 +39,15 @@ Research interests
 * Data Mining
 * Deep Learning
 
+Honors and awards
+======
+* World's Top 2% Scientists, single-year citation impact, [2026 TOPSCINET profile](https://topscinet.com/scientist_profile/Liang,%20Maohan/2016/?stype=single_year).
+
+Academic service
+======
+* Editorial Board Member, [Scientific Reports](https://www.nature.com/srep/editors), Springer Nature.
+* Guest Advisor, International Journal of Digital Earth article collection: [Multi-Source Earth Observation and GeoAI for Maritime Situational Awareness](https://think.taylorandfrancis.com/article_collections/multi-source-earth-observation-and-geoai-for-maritime-situational-awareness/). Guest Advisors: Maohan Liang, Peng Peng, and Feng Lu. Submission deadline: 31 July 2027.
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}

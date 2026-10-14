@@ -12,6 +12,11 @@ Maohan Liang received the PhD and MSc degrees in Traffic Information Engineering
 Latest News
 ------
 
+**World's Top 2% Scientists (2026)**
+
+I am honored to be included in the Stanford/Elsevier World's Top 2% Scientists list for single-year citation impact, as listed in the [2026 TOPSCINET profile](https://topscinet.com/scientist_profile/Liang,%20Maohan/2016/?stype=single_year).
+
+
 **Editorial Board Member of Scientific Reports**
 
 I am pleased to share that I have joined the Editorial Board of [Scientific Reports](https://www.nature.com/srep/editors), published by Springer Nature.
@@ -49,6 +54,17 @@ We are thrilled to announce that our recent paper, "Deep Learning Empowered Vess
 
 Call for papers
 ------
+
+**International Journal of Digital Earth--Call for papers**
+
+Multi-Source Earth Observation and GeoAI for Maritime Situational Awareness
+
+[Article Collection and submission information](https://think.taylorandfrancis.com/article_collections/multi-source-earth-observation-and-geoai-for-maritime-situational-awareness/)
+
+Guest Advisors: Maohan Liang, Peng Peng, and Feng Lu.
+
+Submission Deadline: 31 July 2027
+
 
 **Drones--Call for papers**
 
